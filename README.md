@@ -66,13 +66,13 @@ Edit
 Clone the repository:
 ```
 bash
-git clone https://github.com/Inst3p428/python-chatbot.git
-cd cryptobuddy-chatbot
+git clone https://github.com/Inst3p428/Python-Chat-Bot.git
+cd Python-Chat-bot
 ```
 Run the script:
 
 In Terminal:
 ```
 bash
-python cryptobuddy.py
+python chatbot.py
 ```
